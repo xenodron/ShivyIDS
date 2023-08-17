@@ -1,2 +1,2 @@
 # ShivyIDS
-Suricata IDS with the Power of ML
+Suricata IDS with the power of machine learning
